@@ -28,7 +28,8 @@ print(remove(s))
 ~~~
 ## Output
 
-<img width="1207" height="320" alt="Screenshot 2026-03-26 101737" src="https://github.com/user-attachments/assets/a9491773-d1b6-43f8-95f4-b470c1544be7" />
+<img width="938" height="262" alt="Screenshot 2026-03-26 110420" src="https://github.com/user-attachments/assets/f0a3bca3-25ba-4d97-bb23-736f0314b7bc" />
+
 ## Result
 Thus,the program has been executed successfully.
 
